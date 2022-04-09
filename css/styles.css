@@ -63,6 +63,7 @@ body {
 }
 
 .header-link {
+  font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.02em;
@@ -199,6 +200,7 @@ body {
 /* portfolio  */
 
 .portfolio-filter-btn {
+  font-family: inherit;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.62;
